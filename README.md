@@ -34,7 +34,7 @@ Percentages and party labels were removed from the dataset.
 
 ## Step 2: Imported Data into Google Sheets
 The clean CSV data was imported into Google Sheets
-![Description of screenshot](screenshots/form-overview.png)
+![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130621.png)
 
 ## Step 3: Vote Reallocation Mapping
 A mapping table was created to reassign votes from 

@@ -39,7 +39,7 @@ The clean CSV data was imported into Google Sheets
 ## Step 3: Vote Reallocation Mapping
 A mapping table was created to reassign votes from 
 eliminated candidates to the remaining candidates
-![Description of screenshot](screenshots/form-overview.png)
+![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130638.png)
 
 ## Step 4: Reallocation Using VLOOKUP
 A VLOOKUP formula was created to automatically assign

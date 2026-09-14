@@ -55,3 +55,4 @@ This simulation allowed me to compare:
 - Original totals
 - Simulated results
 - Vote gains from reallocation
+![Description of screenshot](Screenshots/Screenshot%202026-09-14%20131507.png)

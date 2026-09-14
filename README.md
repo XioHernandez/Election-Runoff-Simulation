@@ -30,7 +30,7 @@ analytical purposes and do not represent
 the behaviors of actual voters. 
 
 ## Step 1: Collect and Clean Data
-Percentages and party labels were removed from the dataset.
+### Percentages and party labels were removed from the dataset.
 
 ## Step 2: Imported Data into Google Sheets
 The clean CSV data was imported into Google Sheets

@@ -44,6 +44,7 @@ eliminated candidates to the remaining candidates
 ## Step 4: Reallocation Using VLOOKUP
 A VLOOKUP formula was created to automatically assign
 each candidate to a final candidate according to the mapping table.
+![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130735.png)
 
 ## Step 5: Pivot Tables
 Pivot tables were used to summarize vote totals

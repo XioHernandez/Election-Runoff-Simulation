@@ -33,25 +33,25 @@ the behaviors of actual voters.
 ### Percentages and party labels were removed from the dataset.
 
 ## Step 2: Imported Data into Google Sheets
-The clean CSV data was imported into Google Sheets
+### The clean CSV data was imported into Google Sheets
 ![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130621.png)
 
 ## Step 3: Vote Reallocation Mapping
-A mapping table was created to reassign votes from 
+### A mapping table was created to reassign votes from 
 eliminated candidates to the remaining candidates
 ![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130638.png)
 
 ## Step 4: Reallocation Using VLOOKUP
-A VLOOKUP formula was created to automatically assign
+### A VLOOKUP formula was created to automatically assign
 each candidate to a final candidate according to the mapping table.
 ![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130735.png)
 
 ## Step 5: Pivot Tables
-Pivot tables were used to summarize vote totals
+### Pivot tables were used to summarize vote totals
 ![Description of screenshot](screenshots/form-overview.png)
 
 ## Step 6: Comparison
-This simulation allowed me to compare:
+### This simulation allowed me to compare:
 - Original totals
 - Simulated results
 - Vote gains from reallocation

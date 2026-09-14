@@ -37,8 +37,7 @@ the behaviors of actual voters.
 ![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130621.png)
 
 ## Step 3: Vote Reallocation Mapping
-### A mapping table was created to reassign votes from 
-eliminated candidates to the remaining candidates
+### A mapping table was created to reassign votes from eliminated candidates to the remaining candidates
 ![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130638.png)
 
 ## Step 4: Reallocation Using VLOOKUP

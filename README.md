@@ -43,11 +43,11 @@ the behaviors of actual voters.
 ## Step 4: Reallocation Using VLOOKUP
 ### A VLOOKUP formula was created to automatically assign
 each candidate to a final candidate according to the mapping table.
-![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130735.png)
+![Description of screenshot](Screenshots/vlookup.png)
 
 ## Step 5: Pivot Tables
 ### Pivot tables were used to summarize vote totals
-![Description of screenshot](screenshots/form-overview.png)
+![Description of screenshot](Screenshots/Screenshot%202026-09-14%20130735.png)
 
 ## Step 6: Comparison
 ### This simulation allowed me to compare:
